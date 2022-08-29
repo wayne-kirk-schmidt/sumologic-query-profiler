@@ -1,0 +1,15 @@
+
+001. get query and context
+002. rewrite query
+003. checksum new query
+004. build tag for new query
+	<md5sum>_<linenumber> as _query_tag
+005. store query as key and value
+006. <key> number of lines
+	<value> query itself
+007. issue query of <md5sum>_<linenumber>
+008. run query for each key with the associated value
+	<md5sum>_<last_number>
+		...
+	<md5sum>_<first_number>
+009. store the data for key fields 
