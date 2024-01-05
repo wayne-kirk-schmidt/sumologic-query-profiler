@@ -1,7 +1,8 @@
 repo_name: wayne-kirk-schmidt/sumologic-query-profiler
 report_id: 00aba9c6e1ef77cea311610464bebf0d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T02:23:44+00:00'
+timestamp: '2024-01-05T09:03:03+00:00'
 requested_by: wks-sumo-logic
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/wayne-kirk-schmidt/sumologic-query-profiler
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/wayne-kirk-schmidt/sumologic-query-profiler
   detection_source: Repo Metadata
